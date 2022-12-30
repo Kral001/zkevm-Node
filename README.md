@@ -27,3 +27,7 @@
 - Konsolide durum: son sanal parti dizisinin yürütülmesini kanıtlayan bir ZKP (Sıfır Bilgi Kanıtı) göndererek zincir üzerinde kanıtlanmış durum. 
 
 - Geçersiz işlem: işlenemeyen ve durumu etkilemeyen bir işlem. Böyle bir işlemin sanal toplu işleme dahil edilebileceğini unutmayın.
+
+- Geri alınan işlem: Yürütülen ancak geri alınan bir işlem (akıllı sözleşme mantığı nedeniyle). Geçersiz işlemle ilgili temel fark, bu işlemin durumu, en azından gönderenin hiçbirini artırmayacak şekilde değiştirmesidir. 
+
+- Verimlilik Kanıtı (PoE): ağ tarafından kullanılan protokolün adı, akıllı sözleşmeler tarafından uygulanır. 
